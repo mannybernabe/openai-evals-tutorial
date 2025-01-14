@@ -1,6 +1,8 @@
 
 # OpenAI Evaluation Tool Tutorial
 
+[![Tutorial Video](https://img.youtube.com/vi/pgyhq-WagIg/0.jpg)](https://youtu.be/pgyhq-WagIg)
+
 This repository contains the sample code and data used in the video tutorial demonstrating OpenAI's evaluation tool.
 
 ## Repository Structure
